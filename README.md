@@ -1,5 +1,5 @@
 # Band-Name-Genorator
-##(Python Project 1) This short code will generate a band name based off of your inputs
+#(Python Project 1) This short code will generate a band name based off of your inputs
 
 #1. Create a greeting for your program. 
 print("Welcome to the Band Name Generator.")
